@@ -50,8 +50,8 @@ section {
 
 section ul {
   padding: 1rem;
-  /* max-height: 20rem;
-  overflow: scroll; */
+  max-height: 20rem;
+  overflow: scroll;
 }
 
 section > h2 {
